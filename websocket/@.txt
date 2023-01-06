@@ -1,0 +1,2 @@
+https://dzone.com/articles/ping-pong-implementation-jsr-356
+https://stackoverflow.com/questions/15604015/how-to-add-heartbeat-messaging-on-top-of-this-java-code-for-knockknockclient-se

@@ -1,0 +1,4507 @@
+{
+    "errorCode": "0",
+    "description": "ok",
+    "history": [
+        {
+            "gameId": "300556903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "18 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300555503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "5  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300553903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "30 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300552403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "35 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300550703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "1  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300549103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "24 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300547603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "22 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300546003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "5  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300544403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "10 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300542903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "18 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300541203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "17 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300539503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "30 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300537903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "28 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300532903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "20 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300531503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "24 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300529903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "21 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300528503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "18 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300527003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "24 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300524703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "11 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300523403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "8  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300522003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "12 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300520503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "11 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300519103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "19 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300517603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "27 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300516203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "17 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300514603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "14 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300513003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "25 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300511503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "21 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300509903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "34 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300508303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "5  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300506603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "23 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300505203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "29 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300503503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "18 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300502003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "7  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300500603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "22 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300499003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "27 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300497503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "29 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300495803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "10 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300494303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "7  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300492903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "30 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300491103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "3  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300489603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "31 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300487903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "11 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300486403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "15 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300484703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "23 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300483203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "16 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300481503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "18 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300479903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "9  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300478403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "6  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300476803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "0  Green",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300474903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "32 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300473303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "33 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300472003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "24 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300470303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "26 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300468803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "2  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300467003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "29 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300465203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "11 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300463503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "0  Green",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300461903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "23 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300460403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "2  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300458703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "2  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300457203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "18 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300455603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "1  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300453903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "28 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300452003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "5  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300450303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "25 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300448303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "27 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300446303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "9  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300444703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "1  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300443103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "5  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300441403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "14 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300439803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "24 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300438003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "36 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300436303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "23 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300434903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "16 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300433303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "16 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300431703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "22 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300430103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "34 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300428203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "0  Green",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300426603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "32 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300424903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "27 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300423203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "1  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300421403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "23 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300419503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "29 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300418003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "11 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300416403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "4  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300414803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "19 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300413103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "12 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300411503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "27 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300409703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "10 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300408203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "8  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300406403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "5  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300404803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "36 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300403103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "12 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300401503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "26 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300399803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "23 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300398103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "21 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300396503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "36 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300395203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "4  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300393503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "23 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300391903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "17 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300390303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "22 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300388603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "14 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300386803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "5  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300385303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "33 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300383603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "28 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300381903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "8  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300380503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "32 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300378903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "1  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300377303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "24 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300375803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "28 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300374203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "28 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300372503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "11 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300370803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "27 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300369203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "25 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300367503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "10 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300366103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "30 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300364603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "17 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300362903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "2  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300361403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "34 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300359803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "17 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300358203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "17 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300356703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "7  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300355103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "3  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300353503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "11 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300351703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "2  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300350003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "11 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300348503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "25 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300346803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "26 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300345203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "1  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300343803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "7  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300341903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "13 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300340103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "4  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300338603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "3  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300336703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "27 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300335203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "14 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300333603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "12 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300332203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "26 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300330603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "17 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300329103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "32 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300327503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "9  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300325903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "6  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300324503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "33 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300322903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "4  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300321203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "35 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300319603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "33 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300318003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "2  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300316503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "2  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300314903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "14 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300313303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "2  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300311703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "13 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300310003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "19 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300308503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "25 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300306803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "4  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300305203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "8  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300303603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "25 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300302103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "28 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300300403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "24 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300299003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "30 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300297203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "26 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300295603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "1  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300294003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "14 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300292403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "10 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300290803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "30 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300289103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "5  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300287703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "35 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300286103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "0  Green",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300284403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "21 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300282903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "3  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300281403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "23 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300279803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "7  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300277803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "22 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300276403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "21 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300275103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "35 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300272603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "22 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300271103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "30 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300269403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "4  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300268003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "28 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300266303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "7  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300265203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "33 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300263903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "17 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300261703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "2  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300260103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "29 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300258403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "2  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300257103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "13 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300255203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "7  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300253703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "33 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300251903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "25 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300250503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "36 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300248903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "23 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300247403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "4  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300245703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "3  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300244103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "11 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300242503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "4  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300240903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "24 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300239203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "5  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300237703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "21 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300235903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "18 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300234603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "3  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300232703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "26 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300231103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "7  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300229603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "36 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300227803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "22 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300226103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "17 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300224503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "3  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300223003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "31 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300221303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "35 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300219803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "17 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300218103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "0  Green",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300216503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "1  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300214903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "30 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300213203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "9  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300211603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "23 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300210003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "29 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300208403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "24 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300206803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "5  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300205203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "9  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300203603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "8  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300201903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "35 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300200303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "26 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300198603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "8  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300197103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "15 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300195703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "4  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300194103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "15 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300192703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "11 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300191103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "0  Green",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300189503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "6  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300187803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "22 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300186303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "29 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300184803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "14 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300183203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "30 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300181803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "8  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300180203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "5  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300178703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "26 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300177403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "26 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300175903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "26 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300173603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "35 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300172003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "33 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300170403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "3  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300168803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "28 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300167403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "14 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300165803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "20 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300164403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "24 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300162803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "12 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300161003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "2  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300159503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "29 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300157303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "6  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300155803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "5  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300154003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "27 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300152403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "22 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300150903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "34 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300149503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "9  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300148103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "19 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300146403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "9  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300144803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "5  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300143003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "9  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300141503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "27 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300138503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "20 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300136903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "22 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300135403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "21 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300133603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "5  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300132103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "4  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300130603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "0  Green",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300129003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "21 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300127303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "31 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300125803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "29 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300124503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "1  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300122903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "28 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300121303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "25 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300119703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "11 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300118003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "2  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300116503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "4  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300114803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "28 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300113303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "19 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300111503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "6  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300110303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "19 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300108303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "25 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300106703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "9  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300105103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "29 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300103803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "17 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300102103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "23 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300100403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "8  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300098803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "35 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300097003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "30 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300095303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "33 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300093903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "28 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300092303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "8  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300090803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "16 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300089203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "2  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300087603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "33 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300086103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "0  Green",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300084403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "22 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300082603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "9  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300081103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "34 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300079403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "3  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300077903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "4  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300076403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "0  Green",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300074703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "33 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300072503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "36 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300070503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "28 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300069003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "23 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300067003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "0  Green",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300065603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "13 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300064003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "8  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300062603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "4  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300060803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "5  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300059303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "10 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300057603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "6  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300055803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "16 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300054003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "20 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300052303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "14 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300050603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "8  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300049303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "22 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300047303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "3  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300045603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "25 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300044103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "8  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300042303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "8  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300040703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "7  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300039103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "3  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300037403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "0  Green",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300035903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "12 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300034203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "29 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300032903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "36 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300030803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "29 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300029403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "16 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300027803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "5  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300026203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "7  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300024603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "22 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300023003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "31 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300021403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "25 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300019803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "16 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300018103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "8  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300016503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "32 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300014403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "31 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300012703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "3  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300011003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "14 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300009503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "31 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300007603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "5  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300006303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "12 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300004103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "16 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300002603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "14 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "300000603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "16 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299999003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "31 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299997503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "1  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299996003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "33 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299994203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "36 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299992803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "10 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299991103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "10 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299989603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "3  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299987903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "29 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299986203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "33 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299984503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "31 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299982903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "31 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299981303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "4  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299979703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "34 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299978303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "19 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299976903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "12 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299975203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "2  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299973603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "17 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299971903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "32 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299970303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "24 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299968903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "8  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299967203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "33 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299965603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "10 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299963903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "4  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299962303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "1  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299960803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "27 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299959203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "22 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299957503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "26 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299955803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "12 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299954203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "16 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299952503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "25 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299950903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "29 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299949503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "10 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299947803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "32 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299946303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "27 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299944703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "8  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299943103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "16 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299941403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "4  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299939703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "24 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299938203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "9  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299936603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "16 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299934903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "28 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299932403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "21 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299930803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "34 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299929303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "12 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299927603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "29 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299926003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "6  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299924303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "7  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299922703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "18 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299921103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "36 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299919503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "34 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299917803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "21 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299916203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "23 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299914503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "19 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299913003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "21 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299911503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "18 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299909603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "27 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299908103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "14 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299906703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "0  Green",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299904703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "21 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299903103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "34 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299901303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "12 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299900003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "10 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299898703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "9  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299897103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "9  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299895503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "9  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299894003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "6  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299892303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "15 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299890903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "9  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299889303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "21 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299887703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "27 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299886103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "31 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299884403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "15 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299882903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "31 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299881303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "36 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299879703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "19 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299878103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "36 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299876903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "16 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299875203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "1  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299873603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "30 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299872003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "20 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299870303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "35 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299868803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "14 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299867503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "14 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299866103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "5  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299864503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "27 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299863003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "20 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299861203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "17 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299859603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "19 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299857903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "29 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299856503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "10 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299854903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "23 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299853403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "18 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299851903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "16 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299850203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "20 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299848603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "32 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299847003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "0  Green",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299845603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "23 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299844203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "2  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299842703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "21 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299841103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "15 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299839403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "21 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299837903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "7  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299836303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "16 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299834803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "19 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299833003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "4  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299831503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "22 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299829703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "1  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299828103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "21 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299826603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "5  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299825103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "7  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299823503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "25 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299821903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "1  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299820303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "16 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299818803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "9  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299817303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "16 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299815903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "31 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299814403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "12 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299812803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "29 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299811503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "35 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299809803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "16 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299808203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "20 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299806603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "7  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299805003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "15 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299803403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "14 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299801803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "19 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299800603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "17 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299799003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "13 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299797303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "35 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299795703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "8  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299794103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "10 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299792903",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "4  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299791303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "35 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299789603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "15 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299788003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "0  Green",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299786503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "1  Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299784803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "12 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299783303",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "30 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299781803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "4  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299780203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "12 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299778403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "23 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299776803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "36 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299775103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "4  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299773503",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "4  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299772003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "2  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299770603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "10 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299769203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "4  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299767603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "31 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299766103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "21 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299764403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "0  Green",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299763003",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "33 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299761403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "2  Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299759703",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "23 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299758203",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "18 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299757103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "12 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299755403",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "25 Red",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299753803",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "28 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299752103",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "31 Black",
+            "megaRoulette": false
+        },
+        {
+            "gameId": "299750603",
+            "gameType": "0000000000000001",
+            "betCount": 0,
+            "playerCount": 0,
+            "playerWinCount": 0,
+            "gameResult": "25 Red",
+            "megaRoulette": false
+        }
+    ],
+    "numberOfGames": 500
+}
