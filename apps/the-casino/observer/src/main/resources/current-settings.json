@@ -1,0 +1,34 @@
+[
+    {
+        "name": "processed-spins-setting",
+        "value": "1000"
+    },
+    {
+        "name": "color-columns-setting",
+        "value": "4"
+    },
+    {
+        "name": "parity-columns-setting",
+        "value": "4"
+    },
+    {
+        "name": "range-columns-setting",
+        "value": "4"
+    },
+    {
+        "name": "field-height-setting",
+        "value": "430"
+    },
+    {
+        "name": "hide-0-setting",
+        "value": "no"
+    },
+    {
+        "name": "warning-fire-setting",
+        "value": "5"
+    },
+    {
+        "name": "success-fire-setting",
+        "value": "7"
+    }
+]
