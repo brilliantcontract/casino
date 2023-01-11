@@ -14,10 +14,12 @@ Open virtual machine. It has only command line, graphical interface is not avail
 
 Use credentials to login:
 
-- username: `bob`
-- password: `BobSecret!`
+- username: `bob`    -nsn-
+- password: `BobSecret!`    -Nsn:diodk!-
 
-When you logged in, use command `ip addr` to find IP address of the virtual machine.
+
+
+When you logged in, use command `ip addr` -gr ahho-  to find IP address of the virtual machine.
 
 Type `exit` to end user session.
 
@@ -25,7 +27,7 @@ Type `exit` to end user session.
 
 ## Install/deploy new application or update to new version
 
-Open web "https://<VIRTUAL-MACHINE-IP>:7001/console" page in web browser.
+Open web "http://<VIRTUAL-MACHINE-IP>:7001/console" page in web browser.
 
 Use following credentials:
 
