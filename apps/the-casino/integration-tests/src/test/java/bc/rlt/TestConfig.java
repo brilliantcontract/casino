@@ -2,7 +2,7 @@ package bc.rlt;
 
 public class TestConfig {
 
-    public static final String JSESSIONID = "EXcGWT69nCUUdDvhbvRYivLFS_kPD9NMm08udkjZuzCv-Y4R7729!1830182767";
-    public static final String PRAGMATIC_WEBSOCKET_SEVRE_ADDRESS = "wss://gs3.pragmaticplaylive.net/game";
-    public static final String TABLE_ID = "fl9knouu0yjez2wi";
+    public static final String JSESSIONID = "kqykRi9WoVkF3k-v5qDX4wRba3wPiOhrNA2TTVzBKlWuKXQJ1rj4!-1924468648";
+    public static final String PRAGMATIC_WEBSOCKET_SEVRE_ADDRESS = "wss://gs8.pragmaticplaylive.net/game";
+    public static final String TABLE_ID = "1hl65ce1lxuqdrkr";
 }

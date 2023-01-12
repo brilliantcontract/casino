@@ -16,7 +16,7 @@ import org.mockito.Mockito;
 
 public class PragmaticWebsocketListenerTest {
 
-    @Ignore
+    //@Ignore
     @Test
     public void test() throws Exception {
         Config config = Config.create();
@@ -31,7 +31,7 @@ public class PragmaticWebsocketListenerTest {
         pragmaticListener.connect(TestConfig.TABLE_ID);
         
         while (true) {
-            sleep(1_000);
+            sleep(10_000);
         }
     }
 
