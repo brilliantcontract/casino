@@ -4,5 +4,5 @@
         <keepgenerated>true</keepgenerated>
         <debug>true</debug>
     </jsp-descriptor>
-    <context-root>/monitor-control-rest</context-root>
+    <context-root>/casino/monitor-control-rest</context-root>
 </weblogic-web-app>

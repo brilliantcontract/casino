@@ -129,7 +129,7 @@
                         <webModule>
                             <groupId>bc.rlt</groupId>
                             <artifactId>web-face</artifactId>
-                            <contextRoot>/</contextRoot>
+                            <contextRoot>/casino/</contextRoot>
                         </webModule>
                     </modules>
                 </configuration>
