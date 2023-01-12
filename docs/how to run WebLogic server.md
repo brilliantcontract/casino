@@ -14,12 +14,12 @@ Open virtual machine. It has only command line, graphical interface is not avail
 
 Use credentials to login:
 
-- username: `bob`    -nsn-
-- password: `BobSecret!`    -Nsn:diodk!-
+- username: `bob`    (QWENRTY: nsn)
+- password: `BobSecret!`    (QWENRTY: Nsn:diodk!)
 
 
 
-When you logged in, use command `ip addr` -gr ahho-  to find IP address of the virtual machine.
+When you logged in, use command `ip addr` (QWENRTY: gr ahho)  to find IP address of the virtual machine.
 
 Type `exit` to end user session.
 
