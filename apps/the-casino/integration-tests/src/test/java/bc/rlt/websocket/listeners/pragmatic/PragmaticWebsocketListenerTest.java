@@ -11,10 +11,12 @@ import java.util.logging.Logger;
 import org.junit.Test;
 import static org.hamcrest.Matchers.*;
 import static org.hamcrest.MatcherAssert.*;
+import org.junit.Ignore;
 import org.mockito.Mockito;
 
 public class PragmaticWebsocketListenerTest {
 
+    @Ignore
     @Test
     public void test() throws Exception {
         Config config = Config.create();

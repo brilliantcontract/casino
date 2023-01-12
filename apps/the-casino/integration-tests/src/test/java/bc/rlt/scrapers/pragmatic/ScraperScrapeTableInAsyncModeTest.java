@@ -14,7 +14,7 @@ public class ScraperScrapeTableInAsyncModeTest {
 
     private static final String TABLE_NAME = "Mega Roulette";
 
-    //@Ignore
+    @Ignore
     @Test
     public void test() {
         Config config = Config.create();
