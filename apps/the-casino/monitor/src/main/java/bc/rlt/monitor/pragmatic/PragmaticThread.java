@@ -36,7 +36,7 @@ public class PragmaticThread implements Runnable {
             this.monitorStatus = new MonitorStatusBuilder()
                     .setMessage(ex.getMessage())
                     .setMonitorStatus(MONITOR_STATUS.FAILED)
-                    .setRouletteName(ROULETTE_NAME.PRAGMATIC)
+                    .setRouletteName(ROULETTE_NAME.PRAGMATIC_PLAY)
                     .createMonitorStatus();
         }
     }

@@ -21,7 +21,7 @@ public class RouletteMirrorStrategyTest {
 
     private final String tableName = "Mega Roulette";
     private final String tableId = "1hl65ce1lxuqdrkr";
-    private final ROULETTE_NAME rouletteName = ROULETTE_NAME.PRAGMATIC;
+    private final ROULETTE_NAME rouletteName = ROULETTE_NAME.PRAGMATIC_PLAY;
     private final StrategyTarget strategyTarget = StrategyTarget.COLOR;
     private History history;
     private final Strategy strategy = new RouletteMirrorStrategy();

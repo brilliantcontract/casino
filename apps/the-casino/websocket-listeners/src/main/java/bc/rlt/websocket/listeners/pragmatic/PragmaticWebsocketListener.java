@@ -65,10 +65,15 @@ public class PragmaticWebsocketListener {
     }
 
     public void connect(String tableId) throws DeploymentException, IOException, URISyntaxException {
+        // @todo Web socket access point is selected not by table id.
         this.tableId = tableId;
-        URI uri = new URI(config.getPragmaticWebsocketServerAddress() + "?JSESSIONID=" + config.getPragmaticJsessionid() + "&tableId=" + tableId);
-        System.out.println("Pragmatic websocket server URI: " + uri);
-        this.session = container.connectToServer(this, uri);
+        URI wsAccessPoint = Config.ROULETTE_TABLES_CONFIGS.get(0).composeWsAccessPoint(config);
+        
+        // @todo find way to use web socket access point of multiple tables at once.
+        wsAccessPoint = new URI("wss://gs7.pragmaticplaylive.net/game?JSESSIONID=" + config.getPragmaticJsessionid());
+        
+        System.out.println("Pragmatic websocket server URI: " + wsAccessPoint);
+        this.session = container.connectToServer(this, wsAccessPoint);
     }
     
     public void reconnect() throws DeploymentException, IOException, URISyntaxException {

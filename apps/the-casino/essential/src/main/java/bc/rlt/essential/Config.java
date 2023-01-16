@@ -2,12 +2,10 @@ package bc.rlt.essential;
 
 import bc.rlt.essential.sessions.WebsiteSessionsManager;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 public class Config {
-    
+
     public static Boolean IS_DEBUG_MODE = true;
 
     public static Integer NUMBER_OF_SPINS_TO_ANALYZE = 20;
@@ -19,11 +17,8 @@ public class Config {
 
     private static Config config = null;
     private final List<String> rouletteWebsiteSessionIds = new ArrayList<>();
+    public static final List<RouletteTableConfig> ROULETTE_TABLES_CONFIGS = new ArrayList();
 
-    public static final String PRAGMATIC_ROULETTE_NAME = "Pragmatic";
-    public static final Map<String, String> PRAGMATIC_TABLE_IDS = new HashMap();
-    
-    private String pragmaticWebsocketServerAddress = "";
     private String pragmaticJsessionid = "";
 
     public static Config create() {
@@ -35,43 +30,125 @@ public class Config {
     }
 
     private Config() {
-        PRAGMATIC_TABLE_IDS.put("Mega Roulette", "1hl65ce1lxuqdrkr");
-        PRAGMATIC_TABLE_IDS.put("Roulette 1 - Azure", "g03y1t9vvuhrfytl");
-        PRAGMATIC_TABLE_IDS.put("Speed Roulette 1", "fl9knouu0yjez2wi");
-        PRAGMATIC_TABLE_IDS.put("Roulette 2", "5kvxlw4c1qm3xcyn");
-        PRAGMATIC_TABLE_IDS.put("Auto-Roulette 1", "5bzl2835s5ruvweg");
-        PRAGMATIC_TABLE_IDS.put("Roulette 3 - Macao", "yqpz3ichst2xg439");
-        PRAGMATIC_TABLE_IDS.put("Roulette 8 - Indian", "rmycjoqq18k2r161");
-        PRAGMATIC_TABLE_IDS.put("Roulette 9 - The Club", "geogamingh2rw545");
-        PRAGMATIC_TABLE_IDS.put("Roulette 10 - Ruby", "chroma229rwltr22");
+        ROULETTE_TABLES_CONFIGS.add(
+                new RouletteTableConfigBuilder()
+                        .setRoulette(ROULETTE_NAME.PRAGMATIC_PLAY)
+                        .setTable("Mega Roulette")
+                        .setHttpId("1hl65ce1lxuqdrkr")
+                        .setWsId("2169334708")
+                        .setServer("gs8.pragmaticplaylive.net")
+                        .create()
+        );
+        ROULETTE_TABLES_CONFIGS.add(
+                new RouletteTableConfigBuilder()
+                        .setRoulette(ROULETTE_NAME.PRAGMATIC_PLAY)
+                        .setTable("Roulette 1 - Azure")
+                        .setHttpId("g03y1t9vvuhrfytl")
+                        .setWsId("2345021705")
+                        .setServer("gs8.pragmaticplaylive.net")
+                        .create()
+        );
+        ROULETTE_TABLES_CONFIGS.add(
+                new RouletteTableConfigBuilder()
+                        .setRoulette(ROULETTE_NAME.PRAGMATIC_PLAY)
+                        .setTable("Speed Roulette 1")
+                        .setHttpId("fl9knouu0yjez2wi")
+                        .setWsId("2345044305")
+                        .setServer("gs5.pragmaticplaylive.net")
+                        .create()
+        );
+        ROULETTE_TABLES_CONFIGS.add(
+                new RouletteTableConfigBuilder()
+                        .setRoulette(ROULETTE_NAME.PRAGMATIC_PLAY)
+                        .setTable("Roulette 2")
+                        .setHttpId("1hl65ce1lxuqdrkr")
+                        .setWsId("2345052305")
+                        .setServer("gs8.pragmaticplaylive.net")
+                        .create()
+        );
+        ROULETTE_TABLES_CONFIGS.add(
+                new RouletteTableConfigBuilder()
+                        .setRoulette(ROULETTE_NAME.PRAGMATIC_PLAY)
+                        .setTable("Auto-Roulette 1")
+                        .setHttpId("5bzl2835s5ruvweg")
+                        .setWsId("2169333808")
+                        .setServer("gs8.pragmaticplaylive.net")
+                        .create()
+        );
+        ROULETTE_TABLES_CONFIGS.add(
+                new RouletteTableConfigBuilder()
+                        .setRoulette(ROULETTE_NAME.PRAGMATIC_PLAY)
+                        .setTable("Roulette 3 - Macao")
+                        .setHttpId("yqpz3ichst2xg439")
+                        .setWsId("2345005505")
+                        .setServer("gs5.pragmaticplaylive.net")
+                        .create()
+        );
+        ROULETTE_TABLES_CONFIGS.add(
+                new RouletteTableConfigBuilder()
+                        .setRoulette(ROULETTE_NAME.PRAGMATIC_PLAY)
+                        .setTable("Roulette 8 - Indian")
+                        .setHttpId("rmycjoqq18k2r161")
+                        .setWsId("2345057105")
+                        .setServer("gs5.pragmaticplaylive.net")
+                        .create()
+        );
+        ROULETTE_TABLES_CONFIGS.add(
+                new RouletteTableConfigBuilder()
+                        .setRoulette(ROULETTE_NAME.PRAGMATIC_PLAY)
+                        .setTable("Roulette 9 - The Club")
+                        .setHttpId("geogamingh2rw545")
+                        .setWsId("2345014105")
+                        .setServer("gs5.pragmaticplaylive.net")
+                        .create()
+        );
+        ROULETTE_TABLES_CONFIGS.add(
+                new RouletteTableConfigBuilder()
+                        .setRoulette(ROULETTE_NAME.PRAGMATIC_PLAY)
+                        .setTable("Roulette 10 - Ruby")
+                        .setHttpId("chroma229rwltr22")
+                        .setWsId("2345059405")
+                        .setServer("gs5.pragmaticplaylive.net")
+                        .create()
+        );
+        ROULETTE_TABLES_CONFIGS.add(
+                new RouletteTableConfigBuilder()
+                        .setRoulette(ROULETTE_NAME.PRAGMATIC_PLAY)
+                        .setTable("PowerUP Roulette")
+                        .setHttpId("powruprw1qm3xc25")
+                        .setWsId("2261059910")
+                        .setServer("gs10.pragmaticplaylive.net")
+                        .create()
+        );
+        ROULETTE_TABLES_CONFIGS.add(
+                new RouletteTableConfigBuilder()
+                        .setRoulette(ROULETTE_NAME.PRAGMATIC_PLAY)
+                        .setTable("Speed Roulette 2")
+                        .setHttpId("r20speedrtwo201s")
+                        .setWsId("2345047405")
+                        .setServer("gs8.pragmaticplaylive.net")
+                        .create()
+        );
     }
 
     public void setRouletteWebsiteSessionId(List<String> rouletteWebsiteSessionId) {
         this.rouletteWebsiteSessionIds.clear();
         this.rouletteWebsiteSessionIds.addAll(rouletteWebsiteSessionId);
-        
+
         updateWebsiteSessionsManager();
     }
 
     public void setRouletteWebsiteSessionId(String rouletteWebsiteSessionId) {
         this.rouletteWebsiteSessionIds.clear();
         this.rouletteWebsiteSessionIds.add(rouletteWebsiteSessionId);
-        
+
         updateWebsiteSessionsManager();
     }
-    
+
     private void updateWebsiteSessionsManager() {
         WebsiteSessionsManager websiteSessionsManager = WebsiteSessionsManager.create();
-        
+
         websiteSessionsManager.update(rouletteWebsiteSessionIds);
-    }
-
-    public String getPragmaticWebsocketServerAddress() {
-        return pragmaticWebsocketServerAddress;
-    }
-
-    public void setPragmaticWebsocketServerAddress(String pragmaticWebsocketServerAddress) {
-        this.pragmaticWebsocketServerAddress = pragmaticWebsocketServerAddress;
     }
 
     public String getPragmaticJsessionid() {

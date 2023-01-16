@@ -22,15 +22,14 @@ public class PragmaticWebsocketListenerOfSingleRouletteTest {
     @Test
     public void test() throws Exception {
         Config config = Config.create();
-        config.setPragmaticWebsocketServerAddress(TestConfig.PRAGMATIC_WEBSOCKET_SEVRE_ADDRESS);
         config.setPragmaticJsessionid(TestConfig.JSESSIONID);
 
         Histories histories = Histories.create();
         histories.initializeAllPragmaticTables();
-        History history = histories.getHistory("Mega Roulette");
+        History history = histories.getHistory(TestConfig.TABLE_NAME);
 
         PragmaticWebsocketListener pragmaticListener = new PragmaticWebsocketListener();
-        pragmaticListener.connect(TestConfig.TABLE_ID);
+        pragmaticListener.connect(TestConfig.TABLE_HTTP_ID);
 
         while (true) {
             sleep(10_000);

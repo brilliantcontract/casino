@@ -1,6 +1,8 @@
 package bc.rlt.history;
 
 import bc.rlt.essential.Config;
+import bc.rlt.essential.ROULETTE_NAME;
+import bc.rlt.essential.RouletteTableConfig;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
@@ -26,17 +28,21 @@ public class Histories implements Iterable<History> {
     }
     
     public void initializeAllPragmaticTables() {
-        for (Map.Entry<String, String> table : Config.PRAGMATIC_TABLE_IDS.entrySet()) {
-            addPragmatic(table.getKey(), table.getValue());
+        for (RouletteTableConfig tableConfig : Config.ROULETTE_TABLES_CONFIGS) {
+            addPragmatic(tableConfig);
         }
     }
 
-    public void addPragmatic(String tableName, String tableId) {
-        History history = new History(Config.PRAGMATIC_ROULETTE_NAME,
-                tableName, tableId);
+    public void addPragmatic(RouletteTableConfig tableConfig) {
+        // @todo replace data type in History object to RouletteTableConfig.
+        History history = new History(
+                ROULETTE_NAME.PRAGMATIC_PLAY.name(),
+                tableConfig.getName(),
+                tableConfig.getHttpId()
+        );
 
         if (histories.contains(history)) {
-            Logger.getLogger(Histories.class.getName()).log(Level.WARNING, "Histories object already have the history with table name: " + tableName);
+            Logger.getLogger(Histories.class.getName()).log(Level.WARNING, "Histories object already have the history with table name: " + tableConfig.getName());
         } else {
             histories.add(history);
         }

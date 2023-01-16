@@ -33,7 +33,7 @@ public class RouletteMirrorStrategyDemo {
             throw new CriticalException("Specified incorrect strategy target.");
         }
 
-        Field field = strategy.calculate(ROULETTE_NAME.PRAGMATIC, tableName, StrategyTarget.COLOR);
+        Field field = strategy.calculate(ROULETTE_NAME.PRAGMATIC_PLAY, tableName, StrategyTarget.COLOR);
 
         String json = field.asJson();
 

@@ -20,7 +20,7 @@ public class PragmaticMonitor implements Monitor {
     private MonitorStatus monitorStatus = new MonitorStatusBuilder()
             .setMessage("")
             .setMonitorStatus(MONITOR_STATUS.UNDEFINED)
-            .setRouletteName(ROULETTE_NAME.PRAGMATIC)
+            .setRouletteName(ROULETTE_NAME.PRAGMATIC_PLAY)
             .createMonitorStatus();
     private final PragmaticScraper scraper = new PragmaticScraper();
     private final PragmaticThread thread = new PragmaticThread(monitorStatus);
@@ -43,7 +43,7 @@ public class PragmaticMonitor implements Monitor {
         monitorStatus = new MonitorStatusBuilder()
                 .setMessage("")
                 .setMonitorStatus(MONITOR_STATUS.RUNNING)
-                .setRouletteName(ROULETTE_NAME.PRAGMATIC)
+                .setRouletteName(ROULETTE_NAME.PRAGMATIC_PLAY)
                 .createMonitorStatus();
     }
 
@@ -54,7 +54,7 @@ public class PragmaticMonitor implements Monitor {
         monitorStatus = new MonitorStatusBuilder()
                 .setMessage("")
                 .setMonitorStatus(MONITOR_STATUS.STOPPED)
-                .setRouletteName(ROULETTE_NAME.PRAGMATIC)
+                .setRouletteName(ROULETTE_NAME.PRAGMATIC_PLAY)
                 .createMonitorStatus();
     }
 

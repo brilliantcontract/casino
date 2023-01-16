@@ -15,7 +15,7 @@ public class JsonFieldTest {
     @Test
     public void test() throws Exception {
         Field field = new Field();
-        field.setRouletteName(ROULETTE_NAME.PRAGMATIC);
+        field.setRouletteName(ROULETTE_NAME.PRAGMATIC_PLAY);
         field.setStrategyTarget(StrategyTarget.COLOR);
         field.setTableName("Mega Roulette");
         
