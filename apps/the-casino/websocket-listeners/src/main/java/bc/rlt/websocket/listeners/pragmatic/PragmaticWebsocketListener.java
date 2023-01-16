@@ -52,6 +52,7 @@ public class PragmaticWebsocketListener {
     }
 
     public void send(String message) {
+        System.out.println("[] Send message: " + message);
         this.session.getAsyncRemote().sendText(message);
     }
 
