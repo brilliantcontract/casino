@@ -1,3 +1,0 @@
-https://stackoverflow.com/questions/74513851/websocket-client-doesnt-sent-ping-message-itself
-
-https://stackoverflow.com/questions/74526679/java-websocket-ping-pong
